@@ -1,0 +1,29 @@
+#body {
+    display: flex;
+    justify-content: center;
+    background: rgb(7, 7, 7);
+
+    
+    
+    .btnNeon {
+        margin-top: 50vh;
+        display: block;
+        justify-content: center;
+        align-items: center;
+        background-color: rgba(4, 4, 4, 0.997);
+        border-radius: 2500px;
+        border: 1px solid rgb(2, 198, 247);
+        
+
+        &:hover {
+            box-shadow: 0 0 10px red, 0 0 40px red, 0 0 80px red;
+            translate: (5px);
+        }
+    }
+
+    .btnNeon1 {
+        
+       color: red;
+    }
+}
+

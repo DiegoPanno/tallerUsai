@@ -1,0 +1,28 @@
+footer {
+    margin-top: 10vh;
+    background: rgba(42, 43, 43, 0.368);
+    .parrafoFooter {
+        color: rgb(251, 230, 5);
+
+        
+        
+
+    }
+}
+
+.logo-footer {
+    height: 50px;
+    &:hover {
+        height: 70px;
+        
+    }
+
+}
+
+.hover-footer {
+    &:hover {
+        font-size: 30px;
+        
+    }
+    
+}
